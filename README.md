@@ -10,6 +10,7 @@ SQL Repository Projects:
 
 Python Repository Projects:
 - Amazon Top 50 Books Project
+- Cleaning Census Data
 
 Tableau Projects:
 - Totalus Rankium AmeriCANs by Party (https://public.tableau.com/app/profile/travis8762/viz/TotalusRankiumAmeriCANsbyPresidentialParty/TotalusRankiumsAmeriCANsbyPresidentialParty)
